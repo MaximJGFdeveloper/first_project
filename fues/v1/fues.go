@@ -3,5 +3,5 @@ package fues
 import "fmt"
 
 func PrintHllWrld() {
-	fmt.Println("Helllo, World!")
+	fmt.Println("Hello, World!")
 }
